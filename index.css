@@ -282,14 +282,16 @@ body {
 
 @media only screen and (max-width: 600px) {
     .product-item-container {
-        width: 75%;
+        width: 71%;
     }
     .category-container .category {
         width: 100%;
     }
 
     .item {
+        height: 345px;
         width: 100%;
+        padding: 15px 8px;
     }
     .product-heading {
         padding: 37px 0
@@ -330,7 +332,7 @@ body {
         font-size: 12px;
     }
     .product-heading h2 {
-        font-size: 28px
+        font-size: 26px
     }
     .banner{
         height: 150px;
